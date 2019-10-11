@@ -1,4 +1,4 @@
-# moviepy-sample
+# moviepy sample
 moviepy sample code
 
 shows how to create video by combining text, image, video and audio
